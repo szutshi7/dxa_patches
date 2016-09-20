@@ -1,0 +1,11 @@
+--- /home/local/ANT/szutshi/Documents/libs/phidgets/manifest.xml	2013-03-02 03:02:16.000000000 -0800
++++ /opt/ros/indigo/src/phidgets/manifest.xml	2016-08-22 16:01:29.454585003 -0700
+@@ -15,7 +15,7 @@
+   <depend package="tf"/>
+   <depend package="sensor_msgs"/>
+   <depend package="sound_play"/>
+-  <depend package="opencv2" />
++  <depend package="cv_bridge" />
+   <depend package="move_base_msgs" />
+   <depend package="actionlib" />
+   <depend package="rviz" />
